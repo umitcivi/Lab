@@ -33,3 +33,5 @@ throw new Exception("There is no student with the given name!");
 }
 return result;
 }
+
+//Java comments are the best
